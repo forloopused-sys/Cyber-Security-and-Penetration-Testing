@@ -86,7 +86,7 @@ Become capable of performing professional penetration testing and security asses
 
 | Day | Lesson | File |
 |------|---------|------|
-| 01 | Introduction to Cyber Security | [01-Introduction-to-Cyber-Security.md](day1.md) |
+| 01 | How Computers & the Internet Actually Work  | [day.md](day1.md) |
 | 02 | CIA Triad | [02-CIA-Triad.md](lessons/02-CIA-Triad.md) |
 | 03 | Networking Basics | [03-Networking-Basics.md](lessons/03-Networking-Basics.md) |
 | 04 | Linux Fundamentals | [04-Linux-Fundamentals.md](lessons/04-Linux-Fundamentals.md) |
