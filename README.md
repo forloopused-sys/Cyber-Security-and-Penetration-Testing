@@ -4,10 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=90-Day+Cyber+Security+Course;Ethical+Hacking+%26+Penetration+Testing;Learn+•+Practice+•+Secure;For+Educational+Purposes+Only" />
 
-![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/USERNAME/REPO?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/USERNAME/REPO?style=for-the-badge)
-![License](https://img.shields.io/github/license/USERNAME/REPO?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/forloopused-sys/REPO?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/forloopused-sys/REPO?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/forloopused-sys/REPO?style=for-the-badge)
+![License](https://img.shields.io/github/license/forloopused-sys/REPO?style=for-the-badge)
 ![Course](https://img.shields.io/badge/Course-90%20Days-blue?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-100%25-success?style=for-the-badge)
 
@@ -86,7 +86,7 @@ Become capable of performing professional penetration testing and security asses
 
 | Day | Lesson | File |
 |------|---------|------|
-| 01 | Introduction to Cyber Security | [01-Introduction-to-Cyber-Security.md](lessons/01-Introduction-to-Cyber-Security.md) |
+| 01 | Introduction to Cyber Security | [01-Introduction-to-Cyber-Security.md](day1.md) |
 | 02 | CIA Triad | [02-CIA-Triad.md](lessons/02-CIA-Triad.md) |
 | 03 | Networking Basics | [03-Networking-Basics.md](lessons/03-Networking-Basics.md) |
 | 04 | Linux Fundamentals | [04-Linux-Fundamentals.md](lessons/04-Linux-Fundamentals.md) |
